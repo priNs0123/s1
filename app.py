@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+print('aa')
 st.title("hello")
 check = st.checkbox("チェックボックス") #引数に入れることでboolを返す
 a = 'aaaa'
